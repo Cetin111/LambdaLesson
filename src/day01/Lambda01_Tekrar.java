@@ -128,6 +128,6 @@ public class Lambda01_Tekrar {
 
     }
 
-//////////yarida kaldi
+
 
 }
