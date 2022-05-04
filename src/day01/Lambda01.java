@@ -109,10 +109,7 @@ public class Lambda01{
     //Task : functional Programming ile list elemanlarinin  cift olanalrini ayni satirda aralarina bosluk birakarak print ediniz.
     public static void printCiftElFunctional(List<Integer> sayi) {
 
-        sayi.
-                stream().
-                filter(t -> t % 2 == 0).
-                forEach(Lambda01::yazdir);
+        sayi.stream().filter(t -> t % 2 == 0).forEach(Lambda01::yazdir);
 
     }
 
