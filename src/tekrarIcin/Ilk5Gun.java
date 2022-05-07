@@ -1,6 +1,6 @@
 package tekrarIcin;
 
-public class Ilk5Ders {
+public class Ilk5Gun {
 
 //   List<Integer> sayi = new ArrayList<>(Arrays.asList(34, 22, 16, 11, 35, 20, 63, 21, 65, 44, 66, 64, 81, 38, 15));
 //Day-1

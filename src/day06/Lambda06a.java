@@ -4,7 +4,7 @@ import day01.Lambda01;
 
 import java.util.stream.IntStream;
 
-public class C03 {
+public class Lambda06a {
     public static void main(String[] args) {
         System.out.println("TASK 01 amele topla-->" + toplaAmele(10));
         System.out.println("TASK 01 cincix topla-->" + toplaCincix(10));
